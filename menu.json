@@ -1,0 +1,113 @@
+{
+  "categories": [
+    {
+      "id": "sandwich",
+      "name": { "en": "Sandwich", "de": "Sandwich" },
+      "description": { "en": "", "de": "" },
+      "image": "img/SANDWICH.png",
+      "items": [
+        { "name": { "en": "Grilled Classic", "de": "Grilled Classic" }, "price": 7.5, "desc": { "en": "Giant bakery toast, topping of choice, crispy grilled", "de": "Riesen-Bäckertoast, Belag nach Wahl, knusprig gegrillt" } },
+        { "name": { "en": "Triple Classic", "de": "Triple Classic" }, "price": 9.5, "desc": { "en": "Giant bakery toast, topping of choice, crispy grilled", "de": "Riesen-Bäckertoast, Belag nach Wahl, knusprig gegrillt" } },
+        { "name": { "en": "Grilled Special", "de": "Grilled Spezial" }, "price": 9, "desc": { "en": "Giant bakery toast, hummus, salad, topping of choice", "de": "Riesen-Bäckertoast, Hummus, Salat, Belag nach Wahl" } },
+        { "name": { "en": "Triple Special", "de": "Triple Spezial" }, "price": 12, "desc": { "en": "Giant bakery toast, hummus, salad, topping of choice", "de": "Riesen-Bäckertoast, Hummus, Salat, Belag nach Wahl" } }
+      ]
+    },
+    {
+      "id": "levante",
+      "name": { "en": "Levante", "de": "Levante" },
+      "description": { "en": "", "de": "" },
+      "image": "img/HUMUS.png",
+      "items": [
+        { "name": { "en": "Hummus (Vegan)", "de": "Hummus (Vegan)" }, "price": 7.5, "desc": { "en": "Creamy chickpea puree, tahini, garlic, lemon, olive oil. Served with bread (cold)", "de": "Cremiges Kichererbsen-Mus, Tahini, Knoblauch, Zitrone, Olivenöl. Brot Beilage (kalt serviert)" } },
+        { "name": { "en": "MsabBaha (Vegan)", "de": "Msabbaha (Vegan)" }, "price": 8, "desc": { "en": "Mashed chickpeas, tahini, garlic, lemon, olive oil. Served with bread (warm)", "de": "Gestampfte Kichererbsen, Tahini, Knoblauch, Zitrone, Olivenöl. Brot Beilage (warm serviert)" } },
+        { "name": { "en": "Foul Mudammas (Vegan)", "de": "Foul Mudammas (Vegan)" }, "price": 8.5, "desc": { "en": "Mashed chickpeas with fava beans, garlic, lemon, olive oil. Served with bread (warm)", "de": "Gestampfte Kichererbsen mit Saubohnen, Knoblauch, Zitrone, Olivenöl. Brot Beilage (warm serviert)" } },
+        { "name": { "en": "Fatteh (Vegetarian)", "de": "Fatteh (Vegetarisch)" }, "price": 9.5, "desc": { "en": "Chickpeas on toasted flatbread, yogurt-tahini sauce, garlic, nuts. Served warm", "de": "Kichererbsen auf geröstetem Fladenbrot, Joghurt-Tahini-Soße, Knoblauch, Nüsse. Warm serviert" } }
+      ]
+    },
+    {
+      "id": "coffee",
+      "name": { "en": "Coffee", "de": "Kaffee" },
+      "description": { "en": "BIO | Decaf & vegan available", "de": "BIO | koffeinfrei & vegan möglich" },
+      "image": "img/KAFE.png",
+      "items": [
+        { "name": { "en": "Espresso", "de": "Espresso" }, "price": 3, "desc": "" },
+        { "name": { "en": "Double Espresso", "de": "Doppel Espresso" }, "price": 3.5, "desc": "" },
+        { "name": { "en": "Espresso Macchiato", "de": "Espresso Macchiato" }, "price": 3.5, "desc": "" },
+        { "name": { "en": "Cortado", "de": "Cortado" }, "price": 4, "desc": "" },
+        { "name": { "en": "Americano / Crema", "de": "Americano / Crema" }, "price": 3.5, "desc": "" },
+        { "name": { "en": "Cappuccino", "de": "Cappuccino" }, "price": 4.5, "desc": "" },
+        { "name": { "en": "Café au Lait", "de": "Milchkaffee" }, "price": 5.5, "desc": "" },
+        { "name": { "en": "Flat White", "de": "Flat White" }, "price": 5, "desc": "" },
+        { "name": { "en": "Latte Macchiato", "de": "Latte Macchiato" }, "price": 5, "desc": "" },
+        { "name": { "en": "Spanish Latte", "de": "Spanish Latte" }, "price": 5, "desc": "" }
+      ]
+    },
+    {
+      "id": "iced_coffee",
+      "name": { "en": "Iced Coffee", "de": "Eiskaffee" },
+      "description": { "en": "BIO | Decaf & vegan available", "de": "BIO | koffeinfrei & vegan möglich" },
+      "image": "img/led.png",
+      "items": [
+        { "name": { "en": "Iced Classic", "de": "Iced Classic" }, "price": 5, "desc": "" },
+        { "name": { "en": "Iced Americano", "de": "Iced Americano" }, "price": 4, "desc": "" },
+        { "name": { "en": "Freddo Espresso", "de": "Freddo Espresso" }, "price": 4.5, "desc": "" },
+        { "name": { "en": "Freddo Americano", "de": "Freddo Americano" }, "price": 4, "desc": "" },
+        { "name": { "en": "Freddo Cappuccino", "de": "Freddo Cappuccino" }, "price": 5, "desc": "" },
+        { "name": { "en": "Frappé", "de": "Frappé" }, "price": 5, "desc": "" },
+        { "name": { "en": "Iced Spanish Latte", "de": "Iced Spanish Latte" }, "price": 5.5, "desc": "" },
+        { "name": { "en": "Iced Espresso Tonic", "de": "Iced Espresso Tonic" }, "price": 5, "desc": "" },
+        { "name": { "en": "Fruity Espresso Tonic", "de": "Fruity Espresso Tonic" }, "price": 8, "desc": { "en": "Mango | Pineapple | Passion fruit", "de": "Mango | Ananas | Maracuja" } }
+      ]
+    },
+    {
+      "id": "matcha",
+      "name": { "en": "Matcha", "de": "Matcha" },
+      "description": { "en": "BIO | Iced available", "de": "BIO | Iced möglich" },
+      "image": "img/MACA.png",
+      "items": [
+        { "name": { "en": "Classic", "de": "Classic" }, "price": 5.5, "desc": "" },
+        { "name": { "en": "Matcha Latte", "de": "Matcha Latte" }, "price": 6, "desc": "" },
+        { "name": { "en": "Pistachio Matcha Latte", "de": "Pistazie Matcha Latte" }, "price": 7.5, "desc": "" },
+        { "name": { "en": "Fruity Matcha Latte", "de": "Fruity Matcha Latte" }, "price": 7.5, "desc": { "en": "Strawberry, Mango, Pineapple, Passion fruit, Pineapple-Coconut, Mango-Passion fruit", "de": "Erdbeere, Mango, Ananas, Maracuja, Ananas-Kokos, Mango-Passion fruit" } }
+      ]
+    },
+    {
+      "id": "lemonade",
+      "name": { "en": "Lemonade", "de": "Limonade" },
+      "description": { "en": "Fresh Lemon | Soda available + 0.5", "de": "Frische Zitrone | Soda möglich + 0.5" },
+      "image": "img/LIMO.png",
+      "items": [
+        { "name": { "en": "Classic", "de": "Classic" }, "price": 5.5, "desc": "" },
+        { "name": { "en": "Rose Water", "de": "Rosenwasser" }, "price": 6.5, "desc": "" },
+        { "name": { "en": "Woodruff", "de": "Waldmeister" }, "price": 6.5, "desc": "" },
+        { "name": { "en": "Blue Curacao", "de": "Blue Curacao" }, "price": 6.5, "desc": "" },
+        { "name": { "en": "Tamarind", "de": "Tamarinde" }, "price": 6.5, "desc": "" },
+        { "name": { "en": "Mango-Passion Fruit", "de": "Mango-Maracuja" }, "price": 6.5, "desc": "" },
+        { "name": { "en": "Raspberry-Mint", "de": "Himbeer-Minze" }, "price": 6.5, "desc": "" },
+        { "name": { "en": "Lime-Mint", "de": "Limette-Minze" }, "price": 6.5, "desc": "" },
+        { "name": { "en": "Pineapple-Coconut", "de": "Ananas-Kokos" }, "price": 6.5, "desc": "" }
+      ]
+    },
+    {
+      "id": "teas",
+      "name": { "en": "Tea Specialities", "de": "Teespezialitäten" },
+      "description": { "en": "", "de": "" },
+      "items": [
+        { "name": { "en": "Ginger", "de": "Ingwer" }, "price": 4, "desc": "" },
+        { "name": { "en": "Ginger-Lemon", "de": "Ingwer-Zitrone" }, "price": 4, "desc": "" },
+        { "name": { "en": "Sachet of choice", "de": "Sachet nach Wahl" }, "price": 3.5, "desc": "" }
+      ]
+    },
+    {
+      "id": "milk",
+      "name": { "en": "Milk Specialities", "de": "Milchspezialitäten" },
+      "description": { "en": "Vegan available + 0.5 | Iced available", "de": "Vegan möglich + 0.5 | Iced möglich" },
+      "image": "img/KAKAO.png",
+      "items": [
+        { "name": { "en": "Chai Latte", "de": "Chai Latte" }, "price": 5, "desc": "" },
+        { "name": { "en": "Golden Milk", "de": "Goldene, Milch" }, "price": 5, "desc": "" },
+        { "name": { "en": "Cocoa", "de": "Kakao" }, "price": 4.5, "desc": "" }
+      ]
+    }
+  ]
+}
